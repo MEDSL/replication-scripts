@@ -1,0 +1,54 @@
+ak2020: https://www.elections.alaska.gov/results/20GENR/index.php
+al2020: https://www.sos.alabama.gov/alabama-votes/voter/election-data
+ar2020: https://results.enr.clarityelections.com/AR/Arkansas/106126/web.264614/#/summary?v=272280%2F
+ca2020: https://statewidedatabase.org/d10/g20.html
+co2020: https://www.sos.state.co.us/pubs/elections/Results/Archives.html 
+ct2020: https://ctemspublic.pcctg.net/#/reports
+dc2020: https://electionresults.dcboe.org/election_results/2020-General-Election
+hi2020: https://elections.hawaii.gov/election-results/
+ia2020: https://sos.iowa.gov/elections/results/precinctvotetotals2020general.html
+id2020: https://sos.idaho.gov/elections-division/election-results/
+me2020: https://www.maine.gov/sos/cec/elec/results/results20.html#novtab
+mi2020: https://www.michigan.gov/sos/elections/Election-Results-and-Data
+mn2020: https://www.sos.state.mn.us/elections-voting/election-results/2020/2020-general-election-results/2020-precinct-results-spreadsheet/
+mt2020: https://sosmt.gov/elections/results/
+nc2020: https://www.ncsbe.gov/results-data/election-results/historical-election-results-data
+nd2020: https://results.sos.nd.gov/ResultsSW.aspx?text=All&type=SW&map=CTY&eid=313
+nm2020: https://electionresults.sos.state.nm.us/resultsSW.aspx?type=FED&map=CTY
+nv2020: https://www.nvsos.gov/sos/elections/election-information/precinct-level-results
+oh2020: https://www.ohiosos.gov/elections/election-results-and-data/2020/
+sd2020: https://sdsos.gov/elections-voting/election-resources/election-history/2020_Election_History.aspx
+tx2020: https://data.capitol.texas.gov/dataset/2020_general
+va2020: https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/ELECTIONRESULTS/2020/
+vt2020: https://electionresults.vermont.gov/Index.html#/state
+wa2020: https://results.vote.wa.gov/results/20201103/export.html
+wi2020: https://elections.wi.gov/index.php/elections-voting/results/2020/fall-general
+ak2018: https://www.elections.alaska.gov/results/20GENR/index.php
+al2018: https://www.sos.alabama.gov/alabama-votes/voter/election-data
+ar2018: https://results.enr.clarityelections.com/AR/92174/Web02-state.216038/#/access-to-races
+az2018: https://azsos.gov/precinct-level-results-county-2018-general
+de2018: https://elections.delaware.gov/archive/elect18/elect18_general/html/index.shtml
+fl2018: https://dos.myflorida.com/elections/data-statistics/elections-data/precinct-level-election-results/ 
+ga2018: http://web.archive.org/web/20220108170913/https://sos.ga.gov/index.php/Elections/current_and_past_elections_results
+ia2018: https://sos.iowa.gov/elections/results/precinctvotetotals2018general.html 
+id2018: https://sos.idaho.gov/elections-division/election-results/ 
+la2018: https://voterportal.sos.la.gov/graphical
+md2018: https://elections.maryland.gov/elections/2018/index.html
+me2018: https://www.maine.gov/sos/cec/elec/results/results18.html#Nov6
+mt2018: https://sosmt.gov/elections/results/
+nc2018: https://www.ncsbe.gov/results-data/election-results/historical-election-results-data
+nd2018: https://results.sos.nd.gov/resultsSW.aspx?type=CTYALL&map=CTY&cty=12&name=Divide&eid=302
+ne2018: https://electionresults.nebraska.gov/resultsCTY.aspx?type=CG&rid=11236&osn=103&pty=REP&map=DIST
+nv2018: https://www.nvsos.gov/sos/elections/election-information/precinct-level-results
+oh2018: https://www.ohiosos.gov/elections/election-results-and-data/2018-official-elections-results/
+ok2018: https://results.okelections.us/OKER/?elecDate=20201103
+ri2018: https://www.ri.gov/election/results/2018/general_election/
+tn2018: https://sos.tn.gov/elections/results
+va2018: https://historical.elections.virginia.gov/elections/search/year_from:2018/year_to:2018/office_id:6/stage:General
+wa2018: https://results.vote.wa.gov/results/20181106/
+wi2018: https://elections.wi.gov/elections-voting/results/2018/fall-general
+wy2018: https://sos.wyo.gov/Elections/Docs/2018/2018GeneralResults.aspx
+
+Else, as per the table, data were obtained by:
+	* request to the state government
+	* openelections
